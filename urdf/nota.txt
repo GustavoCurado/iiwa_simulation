@@ -1,0 +1,3 @@
+Se você não der o seguinte comando no terminal onde roda o Gazebo, ele não vai conseguir encontrar os meshes pro urdf:
+
+export GZ_SIM_RESOURCE_PATH=~/Área\ de\ Trabalho/Programming/USP/coisas_da_IC/ros2_ws/src

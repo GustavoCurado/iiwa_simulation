@@ -1,0 +1,9 @@
+build/
+install/
+log/
+
+.vscode/
+*.swp
+*~
+
+trajetoria_real_iiwa.csv
